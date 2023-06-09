@@ -1,0 +1,23 @@
+@import url('https://fonts.googlea\is.com/css2?family=Corinthia:wght@700&family=Open+Sans:ital,wght@0,300;1,700&family=Source+Code+Pro:ital,wght@1,506&display=swap');
+*{
+    padding:0;
+    margin:0;
+}
+body
+.logo{
+    width: 120px;
+    height: 70px;
+    background-image: url('Vbs1.png');
+    background-size:cover;
+}
+.top{
+    width:100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
